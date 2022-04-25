@@ -56,5 +56,7 @@
     "url": "https://github.com/wyzantinc/vue-radial-progress/issues"
   },
   "homepage": "https://github.com/wyzantinc/vue-radial-progress/blob/master/README.md",
-  "dependencies": {}
+  "dependencies": {
+    "lodash.uniqueid": "^4.0.1"
+  }
 }
