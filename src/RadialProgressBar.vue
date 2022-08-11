@@ -51,7 +51,7 @@
 </template>
 
 <script>
-import * as uniqueId from "lodash.uniqueid";
+import { uniqueId } from "lodash";
 export default {
 	props: {
 		diameter: {
